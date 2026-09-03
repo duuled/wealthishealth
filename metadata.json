@@ -1,0 +1,6 @@
+{
+  "name": "Health Is Wealth Recipes",
+  "description": "Natural Wellness & Healing Food Recipes, Digital Recipe Guide, and Premium Superfood Supplements from Venice, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
